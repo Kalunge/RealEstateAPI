@@ -1,0 +1,122 @@
+[
+	{
+		"_id": "5d7a514b5d2c12c7449be042",
+		"name": "Admin Account",
+		"email": "admin@gmail.com",
+		"phoneNUmber": "1234567",
+		"description": "that tall fat guy",
+		"user": "5ed506c19df34dfab6489910"
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be043",
+		"name": "Publisher Account",
+		"email": "publisher@gmail.com",
+		"phoneNUmber": "12345678",
+		"description": "that tall fat guy",
+		"user": "5ed506c19df34dfab6489910"
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be044",
+		"name": "User Account",
+		"email": "user@gmail.com",
+		"phoneNUmber": "123456789",
+		"description": "that tall fat guy",
+		"user": "5ed506c19df34dfab6489910"
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be045",
+		"name": "John Doe",
+		"email": "john@gmail.com",
+		"phoneNUmber": "12345256",
+		"description": "that tall fat guy",
+		"user": "5ed506c19df34dfab6489910"
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be046",
+		"name": "Kevin Smith",
+		"email": "kevin@gmail.com",
+		"phoneNUmber": "12423456",
+		"description": "that tall fat guy",
+		"user": "5ed74f2cdd168899c69b921b"
+	},
+	{
+		"_id": "5c8a1d5b0190b214360dc031",
+		"name": "Mary Williams",
+		"email": "mary@gmail.com",
+		"phoneNUmber": "12345546",
+		"description": "that tall fat guy",
+		"user": "5ed506c19df34dfab6489910"
+	},
+	{
+		"_id": "5c8a1d5b0190b214360dc032",
+		"name": "Sasha Ryan",
+		"email": "sasha@gmail.com",
+		"phoneNUmber": "124503456",
+		"description": "that tall fat guy",
+		"user": "5ed7512d36bc8facb8c0e25b"
+	},
+	{
+		"_id": "5c8a1d5b0190b214360dc033",
+		"name": "Greg Harris",
+		"email": "greg@gmail.com",
+		"phoneNUmber": "123454506",
+		"description": "that tall fat guy",
+		"user": "5ed506c19df34dfab6489910"
+	},
+	{
+		"_id": "5c8a1d5b0190b214360dc034",
+		"name": "Derek Glover",
+		"email": "derek@gmail.com",
+		"phoneNUmber": "1426523456",
+		"description": "that tall fat guy",
+		"user": "5ed506c19df34dfab6489910"
+	},
+	{
+		"_id": "5c8a1d5b0190b214360dc035",
+		"name": "Stephanie Hanson",
+		"email": "steph@gmail.com",
+		"phoneNUmber": "4522123456",
+		"description": "that tall fat guy",
+		"user": "5ed506c19df34dfab6489910"
+	},
+	{
+		"_id": "5c8a1d5b0190b214360dc036",
+		"name": "Jerry Wiliams",
+		"email": "jerry@gmail.com",
+		"phoneNUmber": "1234545256",
+		"description": "that tall fat guy",
+		"user": "5ed506c19df34dfab6489910"
+	},
+	{
+		"_id": "5c8a1d5b0190b214360dc037",
+		"name": "Maggie Johnson",
+		"email": "maggie@gmail.com",
+		"phoneNUmber": "1452623456",
+		"description": "that tall fat guy",
+		"user": "5ed506c19df34dfab6489910"
+	},
+	{
+		"_id": "5c8a1d5b0190b214360dc038",
+		"name": "Barry Dickens",
+		"email": "barry@gmail.com",
+		"phoneNUmber": "1897523456",
+		"description": "that tall fat guy",
+		"user": "5ed506c19df34dfab6489910"
+	},
+	{
+		"_id": "5c8a1d5b0190b214360dc039",
+		"name": "Ryan Bolin",
+		"email": "ryan@gmail.com",
+		"phoneNUmber": "1236936456",
+		"description": "that tall fat guy",
+		"user": "5ed506c19df34dfab6489910"
+	},
+	{
+		"_id": "5c8a1d5b0190b214360dc040",
+		"name": "Sara Kensing",
+		"email": "sara@gmail.com",
+		"phoneNUmber": "26458123456",
+		"description": "that tall fat guy",
+		"user": "5ed506c19df34dfab6489910"
+	}
+]

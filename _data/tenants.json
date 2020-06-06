@@ -1,0 +1,83 @@
+[
+	{
+		"_id": "5d7a514b5d2c12c7449be020",
+		"name": "mwiti",
+		"email": "mururu@gmail.com",
+		"phoneNUmber": "123456",
+		"description": "leaves in groundfloor",
+		"house": "5d725cfec4ded7bcb480eaa7",
+		"user": "5ed74f2cdd168899c69b921b"
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be021",
+		"name": "nchamba",
+		"email": "nchamba@gmail.com",
+		"phoneNUmber": "84542455",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra feugiat mauris id viverra. Duis luctus ex sed facilisis ultrices. Curabitur scelerisque bibendum ligula, quis condimentum libero fermentum in. Aenean erat erat, aliquam in purus a, rhoncus hendrerit tellus. Donec accumsan justo in felis consequat sollicitudin. Fusce luctus mattis nunc vitae maximus. Curabitur semper felis eu magna laoreet scelerisque",
+		"house": "5d725cfec4ded7bcb480eaa6",
+		"user": "5ed74f2cdd168899c69b921b"
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be028",
+		"name": "Kalunge",
+		"email": "Kalunge@gmail.com",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra feugiat mauris id viverra. Duis luctus ex sed facilisis ultrices. Curabitur scelerisque bibendum ligula, quis condimentum libero fermentum in. Aenean erat erat, aliquam in purus a, rhoncus hendrerit tellus. Donec accumsan justo in felis consequat sollicitudin. Fusce luctus mattis nunc vitae maximus. Curabitur semper felis eu magna laoreet scelerisque",
+		"phoneNUmber": "1054545",
+		"house": "5d725cfec4ded7bcb480eaa5",
+		"user": "5ed74f2cdd168899c69b921b"
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be022",
+		"name": "Acibi",
+		"email": "Acibi@gmail.com",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra feugiat mauris id viverra. Duis luctus ex sed facilisis ultrices. Curabitur scelerisque bibendum ligula, quis condimentum libero fermentum in. Aenean erat erat, aliquam in purus a, rhoncus hendrerit tellus. Donec accumsan justo in felis consequat sollicitudin. Fusce luctus mattis nunc vitae maximus. Curabitur semper felis eu magna laoreet scelerisque",
+		"phoneNUmber": "781518",
+		"house": "5d725cfec4ded7bcb480eaa4",
+		"user": "5ed74f2cdd168899c69b921b"
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be023",
+		"name": "mwenda",
+		"email": "mwenda@gmail.com",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra feugiat mauris id viverra. Duis luctus ex sed facilisis ultrices. Curabitur scelerisque bibendum ligula, quis condimentum libero fermentum in. Aenean erat erat, aliquam in purus a, rhoncus hendrerit tellus. Donec accumsan justo in felis consequat sollicitudin. Fusce luctus mattis nunc vitae maximus. Curabitur semper felis eu magna laoreet scelerisque",
+		"phoneNUmber": "4541818",
+		"house": "5d725a4a7b292f4f6ceff789",
+		"user": "5ed506c19df34dfab6489910"
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be024",
+		"name": "Linturi",
+		"email": "Linturi@gmail.com",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra feugiat mauris id viverra. Duis luctus ex sed facilisis ultrices. Curabitur scelerisque bibendum ligula, quis condimentum libero fermentum in. Aenean erat erat, aliquam in purus a, rhoncus hendrerit tellus. Donec accumsan justo in felis consequat sollicitudin. Fusce luctus mattis nunc vitae maximus. Curabitur semper felis eu magna laoreet scelerisque",
+		"phoneNUmber": "759519",
+		"house": "5d725a4a7b292f5f8ceff789",
+		"user": "5ed506c19df34dfab6489910"
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be025",
+		"name": "Kalviin",
+		"email": "Kalviin@gmail.com",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra feugiat mauris id viverra. Duis luctus ex sed facilisis ultrices. Curabitur scelerisque bibendum ligula, quis condimentum libero fermentum in. Aenean erat erat, aliquam in purus a, rhoncus hendrerit tellus. Donec accumsan justo in felis consequat sollicitudin. Fusce luctus mattis nunc vitae maximus. Curabitur semper felis eu magna laoreet scelerisque",
+		"phoneNUmber": "5841818",
+		"house": "5d725cb9c4ded7bcb480eaa1",
+		"user": "5ed506c19df34dfab6489910"
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be026",
+		"name": "muthoni",
+		"email": "muthoni@gmail.com",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra feugiat mauris id viverra. Duis luctus ex sed facilisis ultrices. Curabitur scelerisque bibendum ligula, quis condimentum libero fermentum in. Aenean erat erat, aliquam in purus a, rhoncus hendrerit tellus. Donec accumsan justo in felis consequat sollicitudin. Fusce luctus mattis nunc vitae maximus. Curabitur semper felis eu magna laoreet scelerisque",
+		"phoneNUmber": "1085188",
+		"house": "5d725cd2c4ded7bcb480eaa2",
+		"user": "5ed74f2cdd168899c69b921b"
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be027",
+		"name": "Nyaga",
+		"email": "Nyaga@gmail.com",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra feugiat mauris id viverra. Duis luctus ex sed facilisis ultrices. Curabitur scelerisque bibendum ligula, quis condimentum libero fermentum in. Aenean erat erat, aliquam in purus a, rhoncus hendrerit tellus. Donec accumsan justo in felis consequat sollicitudin. Fusce luctus mattis nunc vitae maximus. Curabitur semper felis eu magna laoreet scelerisque",
+		"phoneNUmber": "7",
+		"house": "5d725ce8c4ded7bcb480eaa3",
+		"user": "5ed74f2cdd168899c69b921b"
+	}
+]

@@ -1,0 +1,92 @@
+[
+	{
+		"_id": "5d725a4a7b292f4f6ceff789",
+		"title": "756Ab",
+		"numOfBedrooms": 3,
+		"description": "three bedrrooms",
+		"rent": 38000,
+		"block": "5d713995b721c3bb38c1f5d0",
+		"user": "5ed506c19df34dfab6489910"
+	},
+	{
+		"_id": "5d725a4a7b292f5f8ceff789",
+		"title": "Front End Web Development",
+		"description": "This course will provide you with all of the essentials to become a successful frontend web developer. You will learn to master HTML, CSS and front end JavaScript, along with tools like Git, VSCode and front end frameworks like Vue",
+		"numOfBedrooms": 8,
+		"rent": 8000,
+		"block": "5d713995b722c3bb38c1f8d0",
+		"user": "5ed506c19df34dfab6489910"
+	},
+	{
+		"_id": "5d725c84c4ded7bcb480eaa0",
+		"title": "Full Stack Web Development",
+		"description": "In this course you will learn full stack web development, first learning all about the frontend with HTML/CSS/JS/Vue and then the backend with Node.js/Express/MongoDB",
+		"numOfBedrooms": 12,
+		"rent": 10000,
+		"block": "5d713a66ec8f2b88b8f830b8",
+		"user": "5ed506c19df34dfab6489910"
+	},
+	{
+		"_id": "5d725cb9c4ded7bcb480eaa1",
+		"title": "Full Stack Web Dev",
+		"description": "In this course you will learn all about the front end with HTML, CSS and JavaScript. You will master tools like Git and Webpack and also learn C# and ASP.NET with Postgres",
+		"numOfBedrooms": 10,
+		"rent": 12000,
+		"block": "5d713a66ec8f2b88b8f830b8",
+		"user": "5ed506c19df34dfab6489910"
+	},
+	{
+		"_id": "5d725cd2c4ded7bcb480eaa2",
+		"title": "UI/UX",
+		"description": "In this course you will learn to create beautiful interfaces. It is a mix of design and development to create modern user experiences on both web and mobile",
+		"numOfBedrooms": 12,
+		"rent": 10000,
+		"block": "5d713a66ec8f2b88b8f830b8",
+		"user": "5ed74f2cdd168899c69b921b"
+	},
+	{
+		"_id": "5d725ce8c4ded7bcb480eaa3",
+		"title": "Web Design & Development",
+		"description": "Get started building websites and web apps with HTML/CSS/JavaScript/PHP. We teach you",
+		"numOfBedrooms": 10,
+		"rent": 9000,
+		"block": "5d725a037b292f5f8ceff787",
+		"user": "5ed74f2cdd168899c69b921b"
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480eaa4",
+		"title": "Data Science Program",
+		"description": "In this course you will learn Python for data science, machine learning and big data tools",
+		"numOfBedrooms": 10,
+		"rent": 12000,
+		"block": "5d725a037b292f5f8ceff787",
+		"user": "5ed74f2cdd168899c69b921b"
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480eaa5",
+		"title": "Web Development",
+		"description": "This course will teach you how to build high quality web applications with technologies like React, Node.js, PHP & Laravel",
+		"numOfBedrooms": 8,
+		"rent": 8000,
+		"block": "5d725a037b292f5f8ceff787",
+		"user": "5ed74f2cdd168899c69b921b"
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480eaa6",
+		"title": "Software QA",
+		"description": "This course will teach you everything you need to know about quality assurance",
+		"numOfBedrooms": 6,
+		"rent": 5000,
+		"block": "5d725a037b292f5f8ceff787",
+		"user": "5ed74f2cdd168899c69b921b"
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480eaa7",
+		"title": "IOS Development",
+		"description": "Get started building mobile applications for IOS using Swift and other tools",
+		"numOfBedrooms": 8,
+		"rent": 6000,
+		"block": "5d725a037b292f5f8ceff787",
+		"user": "5ed74f2cdd168899c69b921b"
+	}
+]
